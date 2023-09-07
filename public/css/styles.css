@@ -14,3 +14,12 @@ body {
   color: #fff;
   background-color: #000;
 }
+
+.btn-block {
+  background-color: red;
+  border-radius: 5px;
+}
+
+.btn-block:hover {
+  background-color: rgb(224, 9, 9);
+}
